@@ -1,0 +1,8 @@
+git init - initializing a repository
+git log - check commit history
+git add [filename] - add file in stage changes
+git remote - check remote repositories
+git remote add [remote name could be anything you like] [link] - adding remote repository
+git push - save local changes to remote repository
+git push [remote name] [branch name] - push on specific remote and branch
+git branch - check current branch name
